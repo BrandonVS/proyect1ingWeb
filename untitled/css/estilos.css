@@ -1,0 +1,75 @@
+*{
+ padding: 5px;
+}
+
+header.titulo{
+    color: white;
+    width: 90%;
+    display: inline-block;
+}
+
+section.descripcion{
+    color: white;
+    padding: 0%;
+    margin: 0%;
+    display: inline-block
+}
+section.slider{
+    color: white;
+}
+section.contenido{
+    color: lightblue;
+}
+
+section.warframes h2{
+    color: white;
+    padding: 0%;
+    margin: 1%;
+    display: inline-block
+}
+section.warframes p{
+  color: white;
+  padding: 0%;
+  margin: 2%;
+  display: inline-block
+}
+section.armas h2{
+  color: white;
+  padding: 0%;
+  margin: 1%;
+  display: inline-block
+}
+section.armas p{
+  color: white;
+  padding: 0%;
+  margin: 2%;
+  display: inline-block
+}
+section.acompañante h2{
+  color: white;
+  padding: 0%;
+  margin: 1%;
+  display: inline-block
+}
+section.acompañante p{
+  color: white;
+  padding: 0%;
+  margin: 2%;
+  display: inline-block
+}
+section.misiones h2{
+  color: white;
+  padding: 0%;
+  margin: 1%;
+  display: inline-block
+}
+section.misiones p{
+  color: white;
+  padding: 0%;
+  margin: 2%;
+  display: inline-block
+}
+footer.piepagina{
+  color: white;
+  float: end;
+}
